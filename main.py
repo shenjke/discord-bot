@@ -27,4 +27,4 @@ async def on_message(message):
     else:
         await message.channel.send("Я не понимаю такую команду!")
 
-client.run("token")
+client.run("tkn")
